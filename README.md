@@ -2,10 +2,13 @@
 ### The webapp is designed to manage project assignment for employees. The application provides user actions based on roles assigned in database.
 
 # Key Feature
-- Spring Security signin and logout
-- BCrypt Encrypted Passwords
-- CRUD operations on a MySQL database
+- Implemented Springboot 2.0 with Spring 5 framework
 - Webbroswer templates design with Thymeleaf 
+- Rest API
+- BCrypt Encryption
+- Designed with SpringMVC framework
+- JPA object relational mapping
+- Performs CRUD operations on a MySQL database
 
 # Project setup
 1. Creating Database
